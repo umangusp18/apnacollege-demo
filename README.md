@@ -1,4 +1,4 @@
 # apnacollege-demo
 First Git Repository
 <br>
-Author - Patel
+Author - U S Patel
